@@ -1,0 +1,15 @@
+ *** Broj racuna:0001 Datum kupovine:2017-01-11 18:36
+ Kupljeno: Pisma iz Norveske Kolicina 1 Cena 990.0
+
+Ukupna cena: 990.0
+Prodavac: Jovan Jovanovic ***
+ *** Broj racuna:0001 Datum kupovine:2017-01-11 19:31
+ Kupljeno: Cica Gorio Kolicina 1 Cena 234.0
+
+Ukupna cena: 234.0
+Prodavac: Jovan Jovanovic ***
+ *** Broj racuna:2017-01-13 10:47:38.089509 Datum kupovine:13-01-2017 10:47
+ Kupljeno: Starac i more Kolicina 1 Cena 450.0
+
+Ukupna cena: 450.0
+Prodavac: Jovan Jovanovic ***

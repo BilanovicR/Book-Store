@@ -1,0 +1,14 @@
+{'zanr': 'krimi', 'autor': 'Mario Puzo', 'obrisano': True, 'naziv': 'Kum', 'cena': 500.0, 'kolicina': 1, 'isbn': '123123'}
+{'zanr': 'klasik', 'autor': 'Fjodor Dostojevski', 'obrisano': False, 'naziv': 'Zlocin i kazna', 'cena': '1234', 'kolicina': 1, 'isbn': '123234'}
+{'zanr': 'klasik', 'autor': 'Lav Tolstoj', 'obrisano': False, 'naziv': 'Rat i mir', 'cena': '432', 'kolicina': 1, 'isbn': '234567'}
+{'zanr': 'klasik', 'autor': 'Onore de Balzak', 'obrisano': False, 'naziv': 'Cica Gorio', 'cena': '234', 'kolicina': 3, 'isbn': '789789'}
+{'zanr': 'klasik', 'autor': 'Ivo Andric', 'obrisano': False, 'naziv': 'Na Drini cuprija', 'cena': '889', 'kolicina': 3, 'isbn': '456654'}
+{'zanr': 'krimi', 'autor': 'Mario Puzo', 'obrisano': False, 'naziv': 'Sicilijanac', 'cena': '567', 'kolicina': 2, 'isbn': '345456'}
+{'zanr': 'klasik', 'autor': 'Carls Dikens', 'obrisano': False, 'naziv': 'Oliver Tvist', 'cena': '456.0', 'kolicina': 3, 'isbn': '3478868'}
+{'zanr': 'klasik', 'autor': 'Carls Dikens', 'obrisano': True, 'naziv': 'Mala prodavnica retkosti', 'cena': '900.0', 'kolicina': 3, 'isbn': '123321'}
+{'zanr': 'klasik', 'autor': 'Viktor Igo', 'obrisano': False, 'naziv': 'Jadnici', 'cena': '1200.0', 'kolicina': '1', 'isbn': '885558'}
+{'zanr': 'klasik', 'autor': 'Milos Crnjanski', 'obrisano': False, 'naziv': 'Roman o Londonu', 'cena': 800.0, 'kolicina': 1, 'isbn': '112334'}
+{'zanr': 'klasik', 'autor': 'Fjodor Dostojevski', 'obrisano': False, 'naziv': 'Idiot', 'cena': 1200.0, 'kolicina': 0, 'isbn': '112112'}
+{'zanr': 'klasik', 'autor': 'Tomas Man', 'obrisano': False, 'naziv': 'Budenbrokovi', 'cena': 1300.0, 'kolicina': 2, 'isbn': '111222'}
+{'zanr': 'klasik', 'autor': 'Isidora Sekulic', 'obrisano': False, 'naziv': 'Pisma iz Norveske', 'cena': 990.0, 'kolicina': 2, 'isbn': '112233'}
+{'zanr': 'klasik', 'autor': 'Ernest Hemingvej', 'obrisano': True, 'naziv': 'Starac i more', 'cena': 450.0, 'kolicina': 1, 'isbn': '001213'}

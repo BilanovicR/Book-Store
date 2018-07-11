@@ -1,0 +1,5 @@
+{"ime":"Ivan", "prezime":"Ivanovic", "korisnicko":"iivan", "sifra":"ivani", "funkcija":"menadzer"}
+{"ime":"Jovan", "prezime":"Jovanovic", "korisnicko":"jjovan", "sifra":"jovanj", "funkcija":"prodavac"}
+{"ime":"Marija", "prezime":"Marijanovic", "korisnicko":"mmarija", "sifra":"marijam", "funkcija":"menadzer"}
+{"ime":"Petar", "prezime":"Petrovic", "korisnicko":"ppetar", "sifra":"petarp", "funkcija":"prodavac"}
+{"ime":"Jelena", "prezime":"Jelic", "korisnicko":"jjelena", "sifra":"jelenaj", "funkcija":"prodavac"}
